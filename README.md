@@ -1,6 +1,6 @@
 # Mandelbrot
 This is a simple Mandelbrot set generator written in Python. It uses the `numpy` and `matplotlib` libraries to generate and display the set.
-
+![Mandelbrot set](https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg)    
 ## Installation
 To install the required libraries, run the following command:
 ```bash
